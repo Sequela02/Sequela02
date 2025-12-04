@@ -1,85 +1,110 @@
-<h2 align="center">🔹 Canitas 🔹</h2>
+<h1 align="center">Canitas</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sequela02&color=blueviolet"/>
+  <strong>Founder & Full-Stack Developer at Sequel</strong>
 </p>
 
-<hr/>
-
-<div align='center'>
-    <p>“We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.” – H.P. Lovecraft</p>
-</div>
-
-
----
-
-### Sobre mí
-
-- **Alias:** Canitas
-- **Intereses:** Desarrollo de videojuegos, escritura, cine, la solución de problemas... y la comida china
-- **En constante aprendizaje:** Actualmente profundizando en Unreal Engine y perfeccionando habilidades en TypeScript y Java.
-- **Inspiración:** Quiero crear herramientas que solucionen las necesidades de la sociedad a través de experiencias inmersivas.
-
-<br/>
-
-<h2 align="center">📊 Estadísticas</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sequela02&color=00FF41&style=flat-square"/>
+</p>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sequela02&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sequela02&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Sequela02&theme=dark&hide_border=true&background=0D1117">
+  <em>"I feel like the sequel you wanna see but you were kinda hoping they would never make"</em>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Habilidades Técnicas</h2>
+### About Me
 
-<h3 align="center">Lenguajes</h3>
-<p align="center">
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-68217A.svg?logo=csharp&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-</p>
+Building software that actually works for traditional businesses.
 
-<h3 align="center">Frameworks y Librerías</h3>
-<p align="center">
-<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
-<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-</p>
-
-<h3 align="center">Herramientas</h3>
-<p align="center">
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
-<a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white"></a>
-</p>
-
-<h3 align="center">Servicios en la Nube</h3>
-<p align="center">
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-</p>
-
-<h3 align="center">Bases de Datos</h3>
-<p align="center">
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=microsoftsqlserver&logoColor=white"></a>
-</p>
-
+- 🏢 **Founder** of [Sequel](https://sequel.com.mx)
+- 🎬 **Currently building**: SHRAD (Cinema SaaS) & Vertex (Video Engine)
+- 🎮 **Creative outlet**: Game development with Unreal Engine
+- 🎥 **Film enthusiast**: Shrek 2 > Shrek 3, always
+- 🍜 **Fuel**: Chinese food
 
 ---
 
-<div align="center">
-    <p>“Monsters... They look like monsters to you?”</p>
-</div>
+### Current Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **SHRAD** | Multi-tenant cinema operating system | Java 21, Spring Boot, React, Electron, PostgreSQL |
+| **Vertex** | Programmatic video rendering engine | TypeScript, Bun, FFmpeg |
+| **Sequel UI** | React component library (Minimal Brutalism) | React 19, TypeScript, Tailwind CSS 4, Radix UI |
+
+---
+
+### Tech Stack
+
+<details>
+<summary><strong>Backend</strong></summary>
+
+![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Frontend</strong></summary>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Desktop & Mobile</strong></summary>
+
+![Electron](https://img.shields.io/badge/Electron-39-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-2-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-0.76-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-52-000020?style=flat-square&logo=expo&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Infrastructure</strong></summary>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+</details>
+
+---
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sequela02&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-armenta-b7066a201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sequel.com.mx"><img src="https://img.shields.io/badge/Sequel-00FF41?style=flat-square&logoColor=black"/></a>
+</p>
+
+<p align="center">
+  <strong>Mexicali, BC, México</strong>
+</p>
+
+---
+
+<p align="center">
+  <em>Sometimes the sequel is exactly what was needed.</em>
+</p>
