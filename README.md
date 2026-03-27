@@ -98,6 +98,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rarmenta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sequelcore"><img src="https://img.shields.io/badge/sequelcore-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://sequel.com.mx"><img src="https://img.shields.io/badge/Sequel-00FF41?style=flat-square&logoColor=black"/></a>
 </p>
 
