@@ -19,13 +19,14 @@ I'm the founder of [Sequel](https://sequel.com.mx), a software studio in Mexico 
 ## Current Work
 
 - **AI orchestration** — [Kiln](https://github.com/sequelcore/kiln), a domain-agnostic engine for multi-channel agents, LLM providers, tools, RAG, and safety pipelines.
-- **Developer infrastructure** — [Mortar](https://github.com/sequelcore/mortar), Java-first, refactor-safe, SQL-transparent queries for Spring and PostgreSQL.
+- **Developer infrastructure** — [Mortar](https://github.com/sequelcore/mortar), Java-first query infrastructure, and [Vigil](https://github.com/sequelcore/vigil), secure JWT authentication for Spring Boot.
 - **Venue operations** — Admit / SHRAD, ticketing and cinema operations software running in production in Mexico.
 - **AI agent SaaS** — Kilvo, a multi-channel agent platform for SMBs built on top of Kiln.
 
 ## Start Here
 
 - [mortar](https://github.com/sequelcore/mortar) — Java-first query infrastructure for Spring + PostgreSQL.
+- [vigil](https://github.com/sequelcore/vigil) — Secure JWT authentication starter for Spring Boot, with RS256/JWKS, refresh rotation, cookie profiles, and revocation.
 - [sequel-backend-demo](https://github.com/sequelcore/sequel-backend-demo) — Public Spring Boot demo for Sequel libraries.
 - [kiln](https://github.com/sequelcore/kiln) — Open-source AI orchestration engine.
 - [kiln-integrations](https://github.com/sequelcore/kiln-integrations) — Official integration adapters for Kiln.
