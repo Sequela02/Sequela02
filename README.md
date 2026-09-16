@@ -29,7 +29,6 @@ I'm the founder of [Sequel](https://sequel.com.mx), a software studio in Mexico 
 - [vigil](https://github.com/sequelcore/vigil) — Secure JWT authentication starter for Spring Boot, with RS256/JWKS, refresh rotation, cookie profiles, and revocation.
 - [sequel-backend-demo](https://github.com/sequelcore/sequel-backend-demo) — Public Spring Boot demo for Sequel libraries.
 - [kiln](https://github.com/sequelcore/kiln) — Open-source AI orchestration engine.
-- [kiln-integrations](https://github.com/sequelcore/kiln-integrations) — Official integration adapters for Kiln.
 - [ehrlich](https://github.com/Sequela02/ehrlich) — AI scientific discovery engine from the Claude Code Hackathon.
 
 ## Production Notes
