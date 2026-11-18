@@ -19,7 +19,6 @@
   ],
   "links": [
     { "label": "sequel.com.mx", "url": "https://sequel.com.mx" },
-    { "label": "sequelcore", "url": "https://github.com/sequelcore" },
-    { "label": "config", "url": "https://github.com/Sequela02/Sequela02/blob/main/profile.config.json" }
+    { "label": "sequelcore", "url": "https://github.com/sequelcore" }
   ]
 }
