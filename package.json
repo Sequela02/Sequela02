@@ -1,0 +1,12 @@
+{
+  "name": "sequela02-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-profile.mjs",
+    "build": "node scripts/build-profile.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
