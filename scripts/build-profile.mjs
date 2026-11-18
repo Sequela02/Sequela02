@@ -355,7 +355,7 @@ const BAR = 36;
 function header(config, history) {
   const { profile, username } = config;
   const BAND = 132;
-  const INFO = 150;
+  const INFO = 172;
   const height = BAND + INFO;
   let body = '';
 
@@ -407,12 +407,14 @@ function header(config, history) {
   )}</text>`;
   body += hline(0, WIDTH, BAND);
 
-  // Who: the name, then what the owner does, then one plain closing line.
+  // Who: the name and handle, then what the owner does, then one plain
+  // closing line.
   body += `<text x="24" y="${BAND + 64}" font-family="Geist" font-weight="460" font-size="54" letter-spacing="-0.035em" fill="${colour.ink}">${esc(
     profile.name
   )}</text>`;
-  body += sans(24, BAND + 100, fit(profile.intro, WIDTH - 48, 17, sansWidth), { size: 17 });
-  body += sans(24, BAND + 126, fit(profile.closing, WIDTH - 48, 15, sansWidth), { size: 15, fill: colour.quiet });
+  body += mono(26, BAND + 90, `@${username}`, { size: 13, fill: colour.quiet });
+  body += sans(24, BAND + 122, fit(profile.intro, WIDTH - 48, 17, sansWidth), { size: 17 });
+  body += sans(24, BAND + 148, fit(profile.closing, WIDTH - 48, 15, sansWidth), { size: 15, fill: colour.quiet });
 
   const title = `${profile.name} (@${username}). ${profile.intro}`;
   return svg(WIDTH, height, title, ['sans', 'mono', 'pixel'], headerCss(), body);
