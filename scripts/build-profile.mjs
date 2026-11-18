@@ -4,7 +4,7 @@
 // image keeps its own fonts, styles and CSS animation, so each panel is one.
 // Needs GITHUB_TOKEN (the contribution calendar is GraphQL only).
 import { createHash } from 'node:crypto';
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { readConfig } from './check-profile.mjs';
 
 const WIDTH = 880;
@@ -535,6 +535,10 @@ write('header.svg', header(config, history));
 featured.forEach(({ repo, activity }, i) => write(`card-${i + 1}.svg`, card(i, repo, activity)));
 write('repos.svg', moreRepos(more));
 config.links.forEach((link, i) => write(`link-${i + 1}.svg`, chip(link)));
+// Panels the config no longer asks for, such as a removed link.
+for (const file of readdirSync(OUT)) {
+  if (file.endsWith('.svg') && !(file in written)) rmSync(`${OUT}/${file}`);
+}
 
 const img = (file, alt, size) => `<img src="./${OUT}/${file}?v=${written[file]}" ${size} alt="${esc(alt)}">`;
 const cards = featured.map(
