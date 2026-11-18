@@ -1,0 +1,25 @@
+{
+  "username": "Sequela02",
+  "profile": {
+    "name": "Canitas",
+    "intro": "[Placeholder: who you are and what Sequel is, in one sentence]",
+    "closing": "[Placeholder: one plain closing line]"
+  },
+  "featured": [
+    "Sequela02/canasta",
+    "sequelcore/tesota",
+    "sequelcore/accord",
+    "sequelcore/quint-check"
+  ],
+  "more": [
+    "sequelcore/mortar",
+    "sequelcore/vigil",
+    "Sequela02/ehrlich",
+    "sequelcore/zed-theme"
+  ],
+  "links": [
+    { "label": "sequel.com.mx", "url": "https://sequel.com.mx" },
+    { "label": "sequelcore", "url": "https://github.com/sequelcore" },
+    { "label": "config", "url": "https://github.com/Sequela02/Sequela02/blob/main/profile.config.json" }
+  ]
+}
